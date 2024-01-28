@@ -1,18 +1,15 @@
 
 
-### <div align="center">Ben Mücahit, tam zamanlı full-stack geliştirici 👨‍💻 2021'den beri çalışıyorum 🚀</div>  
+### <div align="center">I'm Mücahit, full-time full-stack developer 👨‍💻 I've been working since 2021 🚀</div>  
   
 
-- 🔭 Şu anda yönetim paneli  üzerinde çalışıyorum.  
+- 🔭 I'm currently working on the administration panel.  
   
 
-- 🌱 Şu anda Next.js'i öğreniyorum  
-  
-
+- 🌱 I'm currently learning Next.js  
   
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
